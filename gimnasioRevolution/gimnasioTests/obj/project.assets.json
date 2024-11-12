@@ -10186,11 +10186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juand\\OneDrive\\Escritorio\\gimnasioRevolution\\gimnasioTests\\gimnasioTests.csproj",
+      "projectUniqueName": "C:\\Users\\juand\\OneDrive\\Escritorio\\Iron Revolution Center\\gimnasioRevolution\\gimnasioTests\\gimnasioTests.csproj",
       "projectName": "gimnasioTests",
-      "projectPath": "C:\\Users\\juand\\OneDrive\\Escritorio\\gimnasioRevolution\\gimnasioTests\\gimnasioTests.csproj",
+      "projectPath": "C:\\Users\\juand\\OneDrive\\Escritorio\\Iron Revolution Center\\gimnasioRevolution\\gimnasioTests\\gimnasioTests.csproj",
       "packagesPath": "C:\\Users\\juand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juand\\OneDrive\\Escritorio\\gimnasioRevolution\\gimnasioTests\\obj\\",
+      "outputPath": "C:\\Users\\juand\\OneDrive\\Escritorio\\Iron Revolution Center\\gimnasioRevolution\\gimnasioTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -10212,8 +10212,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\juand\\OneDrive\\Escritorio\\gimnasioRevolution\\gimnasio\\gimnasio.csproj": {
-              "projectPath": "C:\\Users\\juand\\OneDrive\\Escritorio\\gimnasioRevolution\\gimnasio\\gimnasio.csproj"
+            "C:\\Users\\juand\\OneDrive\\Escritorio\\Iron Revolution Center\\gimnasioRevolution\\gimnasio\\gimnasio.csproj": {
+              "projectPath": "C:\\Users\\juand\\OneDrive\\Escritorio\\Iron Revolution Center\\gimnasioRevolution\\gimnasio\\gimnasio.csproj"
             }
           }
         }

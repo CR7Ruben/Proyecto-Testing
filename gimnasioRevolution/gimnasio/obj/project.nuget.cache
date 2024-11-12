@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pTB80Zw5koI=",
+  "dgSpecHash": "+94rUfI7RCg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\juand\\OneDrive\\Escritorio\\gimnasioRevolution\\gimnasio\\gimnasio.csproj",
+  "projectFilePath": "C:\\Users\\juand\\OneDrive\\Escritorio\\Iron Revolution Center\\gimnasioRevolution\\gimnasio\\gimnasio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juand\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\juand\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",

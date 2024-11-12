@@ -9,107 +9,107 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = gimnasio
 build_property.RootNamespace = gimnasio
-build_property.ProjectDir = C:\Users\juand\OneDrive\Escritorio\gimnasioRevolution\gimnasio\
+build_property.ProjectDir = C:\Users\juand\OneDrive\Escritorio\Iron Revolution Center\gimnasioRevolution\gimnasio\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\juand\OneDrive\Escritorio\gimnasioRevolution\gimnasio
+build_property.MSBuildProjectDirectory = C:\Users\juand\OneDrive\Escritorio\Iron Revolution Center\gimnasioRevolution\gimnasio
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/juand/OneDrive/Escritorio/gimnasioRevolution/gimnasio/Views/administrador/home.cshtml]
+[C:/Users/juand/OneDrive/Escritorio/Iron Revolution Center/gimnasioRevolution/gimnasio/Views/administrador/home.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5pc3RyYWRvclxob21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juand/OneDrive/Escritorio/gimnasioRevolution/gimnasio/Views/administrador/registrarAdministrador.cshtml]
+[C:/Users/juand/OneDrive/Escritorio/Iron Revolution Center/gimnasioRevolution/gimnasio/Views/administrador/registrarAdministrador.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5pc3RyYWRvclxyZWdpc3RyYXJBZG1pbmlzdHJhZG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juand/OneDrive/Escritorio/gimnasioRevolution/gimnasio/Views/administrador/validacionAdministrador.cshtml]
+[C:/Users/juand/OneDrive/Escritorio/Iron Revolution Center/gimnasioRevolution/gimnasio/Views/administrador/validacionAdministrador.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5pc3RyYWRvclx2YWxpZGFjaW9uQWRtaW5pc3RyYWRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juand/OneDrive/Escritorio/gimnasioRevolution/gimnasio/Views/clientePorMembresia/listar.cshtml]
+[C:/Users/juand/OneDrive/Escritorio/Iron Revolution Center/gimnasioRevolution/gimnasio/Views/clientePorMembresia/listar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2xpZW50ZVBvck1lbWJyZXNpYVxsaXN0YXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juand/OneDrive/Escritorio/gimnasioRevolution/gimnasio/Views/cliente/consultarCliente.cshtml]
+[C:/Users/juand/OneDrive/Escritorio/Iron Revolution Center/gimnasioRevolution/gimnasio/Views/cliente/consultarCliente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2xpZW50ZVxjb25zdWx0YXJDbGllbnRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juand/OneDrive/Escritorio/gimnasioRevolution/gimnasio/Views/cliente/eliminarCliente.cshtml]
+[C:/Users/juand/OneDrive/Escritorio/Iron Revolution Center/gimnasioRevolution/gimnasio/Views/cliente/eliminarCliente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2xpZW50ZVxlbGltaW5hckNsaWVudGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juand/OneDrive/Escritorio/gimnasioRevolution/gimnasio/Views/cliente/insertar.cshtml]
+[C:/Users/juand/OneDrive/Escritorio/Iron Revolution Center/gimnasioRevolution/gimnasio/Views/cliente/insertar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2xpZW50ZVxpbnNlcnRhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juand/OneDrive/Escritorio/gimnasioRevolution/gimnasio/Views/cliente/listarClientes.cshtml]
+[C:/Users/juand/OneDrive/Escritorio/Iron Revolution Center/gimnasioRevolution/gimnasio/Views/cliente/listarClientes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2xpZW50ZVxsaXN0YXJDbGllbnRlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juand/OneDrive/Escritorio/gimnasioRevolution/gimnasio/Views/cliente/modificarCliente.cshtml]
+[C:/Users/juand/OneDrive/Escritorio/Iron Revolution Center/gimnasioRevolution/gimnasio/Views/cliente/modificarCliente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2xpZW50ZVxtb2RpZmljYXJDbGllbnRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juand/OneDrive/Escritorio/gimnasioRevolution/gimnasio/Views/detallesCliente/actualizarMembresia.cshtml]
+[C:/Users/juand/OneDrive/Escritorio/Iron Revolution Center/gimnasioRevolution/gimnasio/Views/detallesCliente/actualizarMembresia.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGV0YWxsZXNDbGllbnRlXGFjdHVhbGl6YXJNZW1icmVzaWEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juand/OneDrive/Escritorio/gimnasioRevolution/gimnasio/Views/detallesCliente/agregarMembresia.cshtml]
+[C:/Users/juand/OneDrive/Escritorio/Iron Revolution Center/gimnasioRevolution/gimnasio/Views/detallesCliente/agregarMembresia.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGV0YWxsZXNDbGllbnRlXGFncmVnYXJNZW1icmVzaWEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juand/OneDrive/Escritorio/gimnasioRevolution/gimnasio/Views/Home/Index.cshtml]
+[C:/Users/juand/OneDrive/Escritorio/Iron Revolution Center/gimnasioRevolution/gimnasio/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juand/OneDrive/Escritorio/gimnasioRevolution/gimnasio/Views/Home/Privacy.cshtml]
+[C:/Users/juand/OneDrive/Escritorio/Iron Revolution Center/gimnasioRevolution/gimnasio/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juand/OneDrive/Escritorio/gimnasioRevolution/gimnasio/Views/membresia/agregar.cshtml]
+[C:/Users/juand/OneDrive/Escritorio/Iron Revolution Center/gimnasioRevolution/gimnasio/Views/membresia/agregar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWVtYnJlc2lhXGFncmVnYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juand/OneDrive/Escritorio/gimnasioRevolution/gimnasio/Views/membresia/eliminar.cshtml]
+[C:/Users/juand/OneDrive/Escritorio/Iron Revolution Center/gimnasioRevolution/gimnasio/Views/membresia/eliminar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWVtYnJlc2lhXGVsaW1pbmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juand/OneDrive/Escritorio/gimnasioRevolution/gimnasio/Views/membresia/listarMembresias.cshtml]
+[C:/Users/juand/OneDrive/Escritorio/Iron Revolution Center/gimnasioRevolution/gimnasio/Views/membresia/listarMembresias.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWVtYnJlc2lhXGxpc3Rhck1lbWJyZXNpYXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juand/OneDrive/Escritorio/gimnasioRevolution/gimnasio/Views/membresia/modificar.cshtml]
+[C:/Users/juand/OneDrive/Escritorio/Iron Revolution Center/gimnasioRevolution/gimnasio/Views/membresia/modificar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWVtYnJlc2lhXG1vZGlmaWNhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juand/OneDrive/Escritorio/gimnasioRevolution/gimnasio/Views/Shared/Error.cshtml]
+[C:/Users/juand/OneDrive/Escritorio/Iron Revolution Center/gimnasioRevolution/gimnasio/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juand/OneDrive/Escritorio/gimnasioRevolution/gimnasio/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/juand/OneDrive/Escritorio/Iron Revolution Center/gimnasioRevolution/gimnasio/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juand/OneDrive/Escritorio/gimnasioRevolution/gimnasio/Views/viewCliente/listarviewCliente.cshtml]
+[C:/Users/juand/OneDrive/Escritorio/Iron Revolution Center/gimnasioRevolution/gimnasio/Views/viewCliente/listarviewCliente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncdmlld0NsaWVudGVcbGlzdGFydmlld0NsaWVudGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juand/OneDrive/Escritorio/gimnasioRevolution/gimnasio/Views/viewDetallesCliente/consultarviewDetallesCliente.cshtml]
+[C:/Users/juand/OneDrive/Escritorio/Iron Revolution Center/gimnasioRevolution/gimnasio/Views/viewDetallesCliente/consultarviewDetallesCliente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncdmlld0RldGFsbGVzQ2xpZW50ZVxjb25zdWx0YXJ2aWV3RGV0YWxsZXNDbGllbnRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juand/OneDrive/Escritorio/gimnasioRevolution/gimnasio/Views/_ViewImports.cshtml]
+[C:/Users/juand/OneDrive/Escritorio/Iron Revolution Center/gimnasioRevolution/gimnasio/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juand/OneDrive/Escritorio/gimnasioRevolution/gimnasio/Views/_ViewStart.cshtml]
+[C:/Users/juand/OneDrive/Escritorio/Iron Revolution Center/gimnasioRevolution/gimnasio/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juand/OneDrive/Escritorio/gimnasioRevolution/gimnasio/Views/Shared/_Layout.cshtml]
+[C:/Users/juand/OneDrive/Escritorio/Iron Revolution Center/gimnasioRevolution/gimnasio/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-k2yy0b77nm

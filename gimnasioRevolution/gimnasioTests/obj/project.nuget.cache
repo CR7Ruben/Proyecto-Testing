@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sUTj+AbdMrM=",
+  "dgSpecHash": "u9AUyA5UMsk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\juand\\OneDrive\\Escritorio\\gimnasioRevolution\\gimnasioTests\\gimnasioTests.csproj",
+  "projectFilePath": "C:\\Users\\juand\\OneDrive\\Escritorio\\Iron Revolution Center\\gimnasioRevolution\\gimnasioTests\\gimnasioTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juand\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\juand\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
