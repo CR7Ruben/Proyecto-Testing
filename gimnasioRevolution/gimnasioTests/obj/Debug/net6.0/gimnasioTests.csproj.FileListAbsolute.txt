@@ -887,3 +887,6 @@ C:\Users\juand\OneDrive\Escritorio\Iron Revolution Center\gimnasioRevolution\gim
 C:\Users\juand\OneDrive\Escritorio\Iron Revolution Center\gimnasioRevolution\gimnasioTests\obj\Debug\net6.0\gimnasioTests.pdb
 C:\Users\juand\OneDrive\Escritorio\Iron Revolution Center\gimnasioRevolution\gimnasioTests\obj\Debug\net6.0\gimnasioTests.genruntimeconfig.cache
 C:\Users\juand\OneDrive\Escritorio\Iron Revolution Center\gimnasioRevolution\gimnasioTests\obj\Debug\net6.0\ref\gimnasioTests.dll
+C:\Users\juand\OneDrive\Escritorio\Iron Revolution Center\gimnasioRevolution\gimnasioTests\bin\Debug\net6.0\playWrightTests\package-lock.json
+C:\Users\juand\OneDrive\Escritorio\Iron Revolution Center\gimnasioRevolution\gimnasioTests\bin\Debug\net6.0\playWrightTests\package.json
+C:\Users\juand\OneDrive\Escritorio\Iron Revolution Center\gimnasioRevolution\gimnasioTests\bin\Debug\net6.0\playWrightTests\test-results\.last-run.json
