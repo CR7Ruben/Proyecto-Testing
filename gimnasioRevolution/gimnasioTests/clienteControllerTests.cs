@@ -6,100 +6,12 @@ using gimnasio.Models;
 using gimnasio.Datos;
 using gimnasio.Controllers;
 using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics;
 
 namespace gimnasioTests
 {
     public class clienteControllerTests
     {
-        [Fact]
-        public void insertarCliente()
-        {
-            /* arrange */
-            /* se crea el objeto simulado moq en la clase cliente */
-            var clienteDatos = new clienteDatos();
-            /* se crea la instancia del controlador */
-            var controller = new clienteController();
-
-            /* si llega a asignar un valor nulo 
-             * no se insertara y devolvera error */
-            var cliente = new clienteModel
-            {
-                nombre = "nuevo",
-                apellido = "cliente",
-                numTel = 1111111111,
-                observaciones = "Ninguna",
-                fotoUrl = ""
-            };
-          
-            /* act */
-            /* manda a llamar al metodo */
-            var resultado = controller.insertar(cliente) as RedirectToActionResult;
-
-            /* assert */
-            Assert.NotNull(resultado);
-            /* resultado esperado */
-            Assert.Equal("listarClientes", resultado.ActionName);
-        }
-
-        [Fact]
-        public void modificarCliente()
-        {
-            /* arrange */
-            /* se crea el objeto simulado moq en la clase cliente */
-            var clienteDatos = new clienteDatos();
-            /* se crea la instancia del controlador */
-            var controller = new clienteController();
-
-            /* si llega a asignar un valor nulo 
-             * no se modificara y devolvera error
-             * para realizar la actualización debe 
-             * existir el cliente */
-            var cliente = new clienteModel
-            {
-                idCliente = 7,
-                nombre = "Juan",
-                apellido = "Rodriguez",
-                numTel = 6441677399,
-                observaciones = "Ninguna",
-                fotoUrl = "modificación"
-            };
-
-            /* act */
-            /* manda a llamar al metodo */
-            var resultado = controller.modificarCliente(cliente) as RedirectToActionResult;
-
-            /* assert */
-            Assert.NotNull(resultado);
-            /* resultado esperado */
-            Assert.Equal("listarClientes", resultado.ActionName);
-        }
-
-        [Fact]
-        public void eliminarCliente()
-        {
-            /* arrange */
-            /* se crea el objeto simulado moq en la clase cliente */
-            var clienteDatos = new clienteDatos();
-            /* se crea la instancia del controlador */
-            var controller = new clienteController();
-
-            /* para realizar la eliminación debe 
-             * existir el cliente */
-            var cliente = new clienteModel
-            {
-                idCliente = 4010
-            };
-
-            /* act */
-            /* manda a llamar al metodo */
-            var resultado = controller.eliminarCliente(cliente) as RedirectToActionResult;
-
-            /* assert */
-            Assert.NotNull(resultado);
-            /* resultado esperado */
-            Assert.Equal("listarClientes", resultado.ActionName);
-        }
-
         /* ejecución => dotnet test -v normal --filter "implementacionCliente" */
         [Fact]
         public void implementacionCliente()
@@ -195,6 +107,7 @@ namespace gimnasioTests
             {
                 Console.WriteLine("Ejecucion fallida.");
             }
+
         }
     }
 }

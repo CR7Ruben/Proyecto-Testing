@@ -125,13 +125,14 @@
 
                                     </thead>
 
-                                    <!-- elemento a buscar en el test -->
                                     <tbody>
 
                                         @foreach (var item in Model)
                                         {
+                                            <!-- elemento a buscar en el test -->
                                             <tr class="cliente-test">
-                                                <td>@item.idCliente</td>
+                                                <!-- elemento a buscar en el test -->
+                                                <td class="idCliente-test">@item.idCliente</td>
                                                 <td>@item.nombre</td>
                                                 <td>@item.apellido</td>
                                                 <td>@item.numTel</td>

@@ -12,7 +12,7 @@ namespace gimnasioTests
 {
     public class membresiaControllerTests
     {
-        /* ejecucion => dotnet test -v normal --filter "modificarMembresia" */
+        /* ejecucion => dotnet test -v normal --filter "implementacionMembresia" */
         [Fact]
         public void modificarMembresia()
         {
@@ -22,12 +22,6 @@ namespace gimnasioTests
 
             Console.WriteLine("Inicializando controladores de membresia...\n");
 
-            /* --- parametros --- */
-            int p_id = 3;
-            string p_membresia = "1 Semana";
-            int p_duracion = 7;
-            int p_precio = 0;
-
             /* arrange */
             /* se crea el objeto simulado moq en la clase membresia */
             var membresiaDatos = new membresiaDatos();
@@ -35,31 +29,70 @@ namespace gimnasioTests
             var controller = new membresiaController();
 
             /* si llega a asignar un valor nulo 
+             * no se insertara y devolvera error */
+
+            var insertMembresia = new membresiaModel
+            {
+                membresia = "as",
+                duracion = 10,
+                precio = 10
+            };
+
+            /* si llega a asignar un valor nulo 
              * no se modificara y devolvera error
              * para realizar la actualización debe 
              * existir la membresia */
-            var membresia = new membresiaModel
+            var updateMembresia = new membresiaModel
             {
-                idMembresia = p_id,
-                membresia = p_membresia,
-                duracion = p_duracion,
-                precio = p_precio
+                idMembresia = 1,
+                membresia = "as",
+                duracion = 10,
+                precio = 10
+            };
+
+            var deleteMmebresia = new membresiaModel
+            {
+                idMembresia = 1
             };
 
             /* act */
             /* manda a llamar al metodo */
-            var resultado = controller.modificar(membresia) as RedirectToActionResult;
+            var insertResultado = controller.agregar(insertMembresia) as RedirectToActionResult;
+            var updateResultado = controller.modificar(updateMembresia) as RedirectToActionResult;
+            var deleteResultado = controller.eliminar(deleteMmebresia) as RedirectToActionResult;
 
             /* assert */
             /* si resultado es diferente a nulo */
-            if (resultado != null)
+            if (insertResultado != null)
             {
                 /* resultado esperado */
-                Assert.Equal("listarMembresias", resultado.ActionName);
+                Assert.Equal("listarMembresias", insertResultado.ActionName);
 
-                Console.WriteLine($"Datos ingresados: \nMembresia => {p_membresia}. \nDuracion => {p_duracion}. \nPrecio => {p_precio}. \n")
-                    ;
-                Console.WriteLine("Ejecución exitosa.");
+                Console.WriteLine("--- Insercion de membresia --- \nEjecución exitosa.");
+            }
+            else /* si no */
+            {
+                Console.WriteLine("Ejecución fallida.");
+            }
+            /* si resultado es diferente a nulo */
+            if (updateResultado != null)
+            {
+                /* resultado esperado */
+                Assert.Equal("listarMembresias", updateResultado.ActionName);
+
+                Console.WriteLine("--- Modificacion de membresia --- \nEjecución exitosa.");
+            }
+            else /* si no */
+            {
+                Console.WriteLine("Ejecución fallida.");
+            }
+            /* si resultado es diferente a nulo */
+            if (deleteResultado != null)
+            {
+                /* resultado esperado */
+                Assert.Equal("listarMembresias", deleteResultado.ActionName);
+
+                Console.WriteLine("--- Eliminacion de membresia --- \nEjecución exitosa.");
             }
             else /* si no */
             {
