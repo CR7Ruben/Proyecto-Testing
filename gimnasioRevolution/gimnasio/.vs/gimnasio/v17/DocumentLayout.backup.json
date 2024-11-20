@@ -3,26 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\juand\\OneDrive\\Escritorio\\Iron Revolution Center\\gimnasioRevolution\\gimnasio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|c:\\users\\juand\\onedrive\\escritorio\\iron revolution center\\gimnasiorevolution\\gimnasio\\playwrighttests\\clientetests\\implementacioncliente.spec.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|solutionrelative:playwrighttests\\clientetests\\implementacioncliente.spec.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|c:\\users\\juand\\onedrive\\escritorio\\iron revolution center\\gimnasiorevolution\\gimnasio\\playwrighttests\\clientefiltromembresiatests\\implementacionclientefiltromembresia.spec.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|solutionrelative:playwrighttests\\clientefiltromembresiatests\\implementacionclientefiltromembresia.spec.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|c:\\users\\juand\\onedrive\\escritorio\\iron revolution center\\gimnasiorevolution\\gimnasio\\controllers\\membresiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|solutionrelative:controllers\\membresiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|c:\\users\\juand\\onedrive\\escritorio\\iron revolution center\\gimnasiorevolution\\gimnasio\\views\\cliente\\listarclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|solutionrelative:views\\cliente\\listarclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|c:\\users\\juand\\onedrive\\escritorio\\iron revolution center\\gimnasiorevolution\\gimnasio\\views\\clientepormembresia\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|solutionrelative:views\\clientepormembresia\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +26,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "listarClientes.cshtml",
-              "DocumentMoniker": "C:\\Users\\juand\\OneDrive\\Escritorio\\Iron Revolution Center\\gimnasioRevolution\\gimnasio\\Views\\cliente\\listarClientes.cshtml",
-              "RelativeDocumentMoniker": "Views\\cliente\\listarClientes.cshtml",
-              "ToolTip": "C:\\Users\\juand\\OneDrive\\Escritorio\\Iron Revolution Center\\gimnasioRevolution\\gimnasio\\Views\\cliente\\listarClientes.cshtml",
-              "RelativeToolTip": "Views\\cliente\\listarClientes.cshtml",
-              "ViewState": "AgIAAIoAAAAAAAAAAAAswKUAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T01:26:41.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "membresiaController.cs",
-              "DocumentMoniker": "C:\\Users\\juand\\OneDrive\\Escritorio\\Iron Revolution Center\\gimnasioRevolution\\gimnasio\\Controllers\\membresiaController.cs",
-              "RelativeDocumentMoniker": "Controllers\\membresiaController.cs",
-              "ToolTip": "C:\\Users\\juand\\OneDrive\\Escritorio\\Iron Revolution Center\\gimnasioRevolution\\gimnasio\\Controllers\\membresiaController.cs",
-              "RelativeToolTip": "Controllers\\membresiaController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T01:12:14.057Z",
-              "EditorCaption": ""
+              "Title": "listar.cshtml",
+              "DocumentMoniker": "C:\\Users\\juand\\OneDrive\\Escritorio\\Iron Revolution Center\\gimnasioRevolution\\gimnasio\\Views\\clientePorMembresia\\listar.cshtml",
+              "RelativeDocumentMoniker": "Views\\clientePorMembresia\\listar.cshtml",
+              "ToolTip": "C:\\Users\\juand\\OneDrive\\Escritorio\\Iron Revolution Center\\gimnasioRevolution\\gimnasio\\Views\\clientePorMembresia\\listar.cshtml",
+              "RelativeToolTip": "Views\\clientePorMembresia\\listar.cshtml",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAAAJIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T19:15:28.995Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "implementacionCliente.spec.js",
-              "DocumentMoniker": "C:\\Users\\juand\\OneDrive\\Escritorio\\Iron Revolution Center\\gimnasioRevolution\\gimnasio\\playWrightTests\\clienteTests\\implementacionCliente.spec.js",
-              "RelativeDocumentMoniker": "playWrightTests\\clienteTests\\implementacionCliente.spec.js",
-              "ToolTip": "C:\\Users\\juand\\OneDrive\\Escritorio\\Iron Revolution Center\\gimnasioRevolution\\gimnasio\\playWrightTests\\clienteTests\\implementacionCliente.spec.js",
-              "RelativeToolTip": "playWrightTests\\clienteTests\\implementacionCliente.spec.js",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAowFgAAAAvAAAAAAAAAA==",
+              "Title": "implementacionClienteFiltroMembresia.spec.js",
+              "DocumentMoniker": "C:\\Users\\juand\\OneDrive\\Escritorio\\Iron Revolution Center\\gimnasioRevolution\\gimnasio\\playWrightTests\\clienteFiltroMembresiaTests\\implementacionClienteFiltroMembresia.spec.js",
+              "RelativeDocumentMoniker": "playWrightTests\\clienteFiltroMembresiaTests\\implementacionClienteFiltroMembresia.spec.js",
+              "ToolTip": "C:\\Users\\juand\\OneDrive\\Escritorio\\Iron Revolution Center\\gimnasioRevolution\\gimnasio\\playWrightTests\\clienteFiltroMembresiaTests\\implementacionClienteFiltroMembresia.spec.js",
+              "RelativeToolTip": "playWrightTests\\clienteFiltroMembresiaTests\\implementacionClienteFiltroMembresia.spec.js",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAADoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-16T00:34:54.054Z",
+              "WhenOpened": "2024-11-17T19:09:12.805Z",
               "EditorCaption": ""
             }
           ]
